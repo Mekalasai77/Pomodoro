@@ -1,0 +1,55 @@
+Last Updated: January 2025
+Effective Date: Immediately
+
+1. Introduction
+
+Welcome to PomodoX ("the App").
+PomodoX is a productivity tool that uses the Pomodoro Technique to help users manage their time effectively.
+Your privacy is important to us, and this Privacy Policy explains how we handle your data.
+
+2. Information We Collect
+2.1 Personal Information
+
+We do not collect or store any personal data such as name, email, phone number, or location.
+
+2.2 Usage Data
+
+The App may locally store the following data on your device:
+
+Number of completed Pomodoro sessions
+
+Selected timer settings
+
+Theme preferences
+
+Onboarding completion status
+
+This data is stored locally (on your device only) using storage mechanisms like AsyncStorage.
+We do not send or collect this data on any server.
+
+3. Data Storage and Security
+
+All stored data is saved locally on your device.
+We do not transfer or process any data on external servers.
+You have full control of app data and can delete it anytime by uninstalling the app or clearing its data.
+
+4. Third-Party Services
+
+PomodoX does not integrate any third-party frameworks, analytics tools or advertising SDKs that collect personally identifiable information.
+
+5. Children's Privacy
+
+PomodoX is designed for general use and does not target children under the age of 13.
+We do not knowingly collect any personal data from children.
+
+6. Changes to This Privacy Policy
+
+We reserve the right to update this Privacy Policy at any time.
+Changes will be reflected here and updated with a new "Last Updated" date.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, feel free to contact us at:
+
+Email: [your-email@example.com
+]
